@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Notes App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a React-based Notes application. This features the application of hooks(useState, useEffect) and also the use of Local storage.
+
+Follow along tutorial by [Chris Blakely](https://youtu.be/8KB3DHI-QbM)
 
 ## Available Scripts
 
